@@ -3,7 +3,7 @@
 </div>
 <h3>Sobre mim</h3>
 🎓 Estudante de Engenharia de Computação na UNIFEI (Universidade Federal de Itajubá)<br>
-📚 Estudando Python, JavaScript, HTML e CSS<br>
+📚 Estudando React e React Native<br>
 🌎 Gosto de aprender novas tecnologias<br>
 
 <h3>Contatos</h3>
